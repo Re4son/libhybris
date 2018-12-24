@@ -1,10 +1,11 @@
 Source: libhybris
 Priority: extra
-Maintainer: TheKit <nekit1000@gmail.com>
+Maintainer: Re4son <re4son@kali.org>
+XSBC-Original-Maintainer: TheKit <nekit1000@gmail.com>
 Build-Depends: debhelper (>= 9.0.0),
                autotools-dev,
                dh-autoreconf,
-               android-headers (>= 4.4.2),
+               android-headers-23 (>= 4.4.2),
                quilt,
                pkg-config,
                libgles2-mesa-dev,
