@@ -1,3 +1,9 @@
+libhybris (0.1.2+kali) kali-rolling; urgency=medium
+
+  * Updated for kali-gemini 2020.1
+
+ -- Re4son <re4son@kali.org>  Sun, 26 Jan 2020 04:09:50 +0000
+
 libhybris (0.1.1+kali) kali-rolling; urgency=medium
 
   [ TheKit ]
